@@ -1,7 +1,5 @@
-- 👋 Hi, I’m a Jordan
-- 👀 I’m interested in anything at the moment. Still learning.
-- 🌱 I’m currently learning Discrete Mathematics, will be taking a short break from coding.
-- 💞️ I’m looking to collaborate on beginner stuff.
+- 👋 Hi, I’m Jordan
+- 👀 I’m interested in all aspects of Computer Science. In Junior year of University, still learning and unsure what I want to focus on. Degree is tailored toward Software Engineering.
+- 🌱 I’m currently learning Discrete Mathematics, will be taking a short break from coding till Fall classes start.
+- 💞️ I’m looking to collaborate on any project that can help improve my abilities in codeing/thinking.
 - 📫 How to reach me ...
-
-
