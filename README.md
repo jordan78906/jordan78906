@@ -10,4 +10,6 @@
 
 - 🌱 I’m currently working on some Advanced Network Analysts concepts/qualifications. Implementing threat pattern recognition and log analysis.
   - Also working on a personal AI/ML project to better understand basic concepts.
+  - Working on financial concepts to integrate in code.
+  - Expanding my toolset to implement python web libraries such as streamlit.
 - I’m looking to collaborate on projects that can help improve my skills in the Cyber Domain.
