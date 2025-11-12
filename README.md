@@ -1,4 +1,4 @@
-👋 Hi there my name is Jordan, from the USA, currently in the Central Standard Time Zone ⌚. I was raised in the trades as a SCADA technician, UND trained in Computer Science and working as a Network Analyst. Interested in all things SCADA, Computer Science, Pythone, C++, Data Science, and Cyber Security. When not hands-on-keyboard, I can be found exploring the world 🌎, lifting weights 🏋️‍♂️, and spending time with the family ❤️.
+👋 Hi there my name is Jordan, from the USA, currently in the Central Standard Time Zone ⌚. I was raised in the trades as a HVAC technician, gravitated towards SCADA, UND trained in Computer Science and working as a Network Analyst. Interested in all things SCADA, Computer Science, Pythone, C++, Data Science, and Cyber Security. When not hands-on-keyboard, I can be found exploring the world 🌎, lifting weights 🏋️‍♂️, and spending time with the family ❤️.
 
 
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/f49ae4f3-7dd8-4449-aac2-376ab9c1c027" />
